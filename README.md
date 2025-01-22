@@ -1,22 +1,6 @@
-
-<!--
-**yeah-mr-white/yeah-mr-white** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <!-- Profile Header -->
-<h1 align="center">👋 Hi there, I'm yeah-mr-white</h1>
-<h3 align="center">Aspiring Software Engineer | Taiwan</h3>
+<h1 align="center">👋 Hello, I'm [Your Name]</h1>
+<h3 align="center">Aspiring [Your Specialization] Developer | [Your Location]</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=[your-github-username]&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -59,7 +43,7 @@ Here are some ideas to get you started:
       <td width="50%">
         <h3 align="center">Project 1</h3>
         <div align="center">  
-          <a href="https://github.com/yeah-mr-white/shinnthant.dev" target="_blank">
+          <a href="[Project 1 Link]" target="_blank">
             <img src="[Project 1 Screenshot URL]" alt="Project 1" height="100%" />
           </a>
           <br>
@@ -132,7 +116,7 @@ Here are some ideas to get you started:
 </p>
 
 <!-- Visual Elements and Styling -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<div align="center"><img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Screenshot%202025-01-23%20at%2001.28.12-ZuqJbevg7HoqX5HYOkCRa7HF9FFejz.png" width="100%" height="8" alt="Purple gradient divider"></div>
 
 <h2 align="center">Thanks for visiting! 👋</h2>
 
