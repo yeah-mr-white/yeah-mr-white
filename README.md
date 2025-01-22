@@ -15,6 +15,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# Welcome to [Your Name]'s GitHub Profile!
+
+I'm [Your Name], specializing in [Your Specialization]. I develop [Your Focus Areas], and in my spare time, I [Your Hobbies or Side Projects].
+
+If you appreciate my work, feel free to connect!
+
+![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Followers&style=social)
+![Top Language](https://img.shields.io/github/languages/top/yourusername/your-repo)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+## Expertise
+
+- **Languages:** Go, Python, JavaScript
+- **Tools:** Terraform, Docker, Kubernetes
+- **Domains:** Cloud Infrastructure, DevOps, Security Research
+
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/yourprofile)
