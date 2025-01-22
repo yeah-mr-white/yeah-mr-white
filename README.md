@@ -34,53 +34,7 @@
   <!-- Add more badges for your skills -->
 </p>
 
-<!-- Projects Showcase -->
-<h2 align="center">Featured Projects 🛠️</h2>
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Project 1</h3>
-        <div align="center">  
-          <a href="[Project 1 Link]" target="_blank">
-            <img src="[Project 1 Screenshot URL]" alt="Project 1" height="100%" />
-          </a>
-          <br>
-          <br>
-          <p>
-            <a href="[Project 1 Repo Link]" target="_blank">
-              <img src="https://img.shields.io/badge/Repo-6C47FF?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
-            </a>  
-            <a href="[Project 1 Live Link]" target="_blank">
-              <img src="https://img.shields.io/badge/Live-3B3BFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live" />
-            </a>
-          </p>
-          <p><strong>[Project 1 Brief Description]</strong></p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">Project 2</h3>
-        <div align="center">  
-          <a href="[Project 2 Link]" target="_blank">
-            <img src="[Project 2 Screenshot URL]" alt="Project 2" height="100%" />
-          </a>
-          <br>
-          <br>
-          <p>
-            <a href="[Project 2 Repo Link]" target="_blank">
-              <img src="https://img.shields.io/badge/Repo-6C47FF?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
-            </a>  
-            <a href="[Project 2 Live Link]" target="_blank">
-              <img src="https://img.shields.io/badge/Live-3B3BFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live" />
-            </a>
-          </p>
-          <p><strong>[Project 2 Brief Description]</strong></p>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
 
 <!-- GitHub Stats and Activity -->
 <h2 align="center">GitHub Stats 📊</h2>
@@ -124,12 +78,5 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%" alt="Thank You!" />
-</p>
-
-<!-- Add this if you want to support donations -->
-<p align="center">
-  <a href="https://www.buymeacoffee.com/[your-username]" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" />
-  </a>
 </p>
 
