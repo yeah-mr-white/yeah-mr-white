@@ -3,7 +3,7 @@
 <h3 align="center">Aspiring [Your Specialization] Developer | [Your Location]</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[your-github-username]&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=[your-github-username]&label=Profile%20views&color=6C47FF&style=flat" alt="Profile views" />
 </p>
 
 <!-- About Me Section -->
@@ -28,9 +28,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-6C47FF?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-3B3BFF?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-6C47FF?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
   <!-- Add more badges for your skills -->
 </p>
 
@@ -50,10 +50,10 @@
           <br>
           <p>
             <a href="[Project 1 Repo Link]" target="_blank">
-              <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github" alt="Repo" />
+              <img src="https://img.shields.io/badge/Repo-6C47FF?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
             </a>  
             <a href="[Project 1 Live Link]" target="_blank">
-              <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live" />
+              <img src="https://img.shields.io/badge/Live-3B3BFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live" />
             </a>
           </p>
           <p><strong>[Project 1 Brief Description]</strong></p>
@@ -69,10 +69,10 @@
           <br>
           <p>
             <a href="[Project 2 Repo Link]" target="_blank">
-              <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github" alt="Repo" />
+              <img src="https://img.shields.io/badge/Repo-6C47FF?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
             </a>  
             <a href="[Project 2 Live Link]" target="_blank">
-              <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live" />
+              <img src="https://img.shields.io/badge/Live-3B3BFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live" />
             </a>
           </p>
           <p><strong>[Project 2 Brief Description]</strong></p>
@@ -86,15 +86,15 @@
 <h2 align="center">GitHub Stats 📊</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[your-github-username]&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[your-github-username]&show_icons=true&bg_color=0D1117&title_color=6C47FF&text_color=FFFFFF&icon_color=3B3BFF&hide_border=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[your-github-username]&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[your-github-username]&background=0D1117&ring=6C47FF&fire=3B3BFF&currStreakLabel=6C47FF&sideLabels=FFFFFF&dates=FFFFFF&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your-github-username]&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your-github-username]&layout=compact&bg_color=0D1117&title_color=6C47FF&text_color=FFFFFF&hide_border=true" alt="Top Languages" />
 </div>
 
 <!-- Social Media and Contact Information -->
@@ -102,21 +102,23 @@
 
 <p align="center">
   <a href="[Your LinkedIn Profile URL]" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-6C47FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="[Your Twitter Profile URL]" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/Twitter-3B3BFF?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="mailto:[Your Email Address]">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-6C47FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="[Your Portfolio Website URL]" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-3B3BFF?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
 <!-- Visual Elements and Styling -->
-<div align="center"><img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Screenshot%202025-01-23%20at%2001.28.12-ZuqJbevg7HoqX5HYOkCRa7HF9FFejz.png" width="100%" height="8" alt="Purple gradient divider"></div>
+<div align="center">
+  <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Screenshot%202025-01-23%20at%2001.28.12-ZuqJbevg7HoqX5HYOkCRa7HF9FFejz.png" width="100%" height="8" alt="Purple gradient divider">
+</div>
 
 <h2 align="center">Thanks for visiting! 👋</h2>
 
@@ -130,3 +132,4 @@
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" />
   </a>
 </p>
+
