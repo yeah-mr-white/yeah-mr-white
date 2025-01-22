@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 -->
 
 <!-- Profile Header -->
-<h1 align="center">👋 Hello, I'm [Your Name]</h1>
-<h3 align="center">Aspiring [Your Specialization] Developer | [Your Location]</h3>
+<h1 align="center">👋 Hi there, I'm yeah-mr-white</h1>
+<h3 align="center">Aspiring Software Engineer | Taiwan</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=[your-github-username]&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -59,7 +59,7 @@ Here are some ideas to get you started:
       <td width="50%">
         <h3 align="center">Project 1</h3>
         <div align="center">  
-          <a href="[Project 1 Link]" target="_blank">
+          <a href="https://github.com/yeah-mr-white/shinnthant.dev" target="_blank">
             <img src="[Project 1 Screenshot URL]" alt="Project 1" height="100%" />
           </a>
           <br>
